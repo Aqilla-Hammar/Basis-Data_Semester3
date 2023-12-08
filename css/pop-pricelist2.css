@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+a{
+    text-decoration: none;
+}
+
+body {
+    font-family: montserrat;
+    background-color: #739072;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+    background-color: #ECE3CE;
+    border: 1px;
+    border-radius: 4px;
+    padding: 5px 5px;
+}
+
+.b0{
+    padding: 10px;
+}
+.b1{
+    padding: 10px;
+}
+.b2{
+    padding: 10px;
+}
+.b3{
+    padding: 10px;
+}
+.b4{
+    padding: 10px;
+}
+.b5{
+    padding: 10px;
+}
+.logout{
+    padding: 10px;
+}
+
+button{
+    padding: 5px;
+}
+.but{
+    top: 1px;
+    position: absolute;
+    padding: 10px 20px 10px 20px;
+    display: flex;
+}
+button{
+    border-radius: 5px;
+    background-color: #ECE3CE;
+}
+a{
+    color: #1E1E1E;
+}
+.formm{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+li{
+    padding: 5px 0;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+}
+td{
+    padding: 3px;
+}
+.prod-list{
+    text-align: center;
+    border-top: double;
+    border-bottom: double;
+}
+
+.foreach-form{
+    padding: 200px 0 0 0;
+    gap: 85px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+}
+table{
+    background-color: #ECE3CE;
+}
